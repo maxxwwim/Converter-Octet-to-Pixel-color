@@ -88,3 +88,10 @@ class BytToPixel:
             image_path = os.path.join(self.output_directory, image_file)
             os.remove(image_path)
         print("Video created successfully.")
+file_path = "C:\\Users\\thgl\\Documents\\iso\\backbox-8-desktop-amd64.iso"
+width = 1280
+height = 720
+framesecond = 60
+video_creator = BytToPixel(file_path, width, height, framesecond)
+video_creator.create_images()
+video_creator.create_video()
