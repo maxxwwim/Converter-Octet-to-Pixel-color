@@ -46,7 +46,10 @@ This project is a Python script that allows you to convert binary files into pix
 - `cv2`
 - `numpy`
 - `moviepy`
-
+  
+```
+pip install tqdm Pillow opencv-python numpy moviepy string itertools
+```
 ## Warning
 This script is designed for small binary files. Converting large files may take time and consume significant memory.
 
