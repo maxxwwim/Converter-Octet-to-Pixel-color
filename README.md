@@ -60,6 +60,6 @@ A file for decrypting AVI format videos will be available soon. This will restor
 Contributions are welcome! If you find a bug or want to improve this script, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. Please see the `LICENSE` file for more information.
+This project is licensed under the Apache-2.0 license. Please see the `LICENSE` file for more information.
 
 **Author:** [maxxwwim](https://github.com/maxxwwim)
