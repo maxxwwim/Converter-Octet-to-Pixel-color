@@ -5,11 +5,11 @@ This project is a Python script that allows you to convert binary files into pix
 ![image](https://github.com/maxxwwim/Converter-Octet-to-Pixel-color/assets/109239740/50992874-3ca2-46f0-94ea-2035d7378e40)
 
 
-## Installation
+## Install
 1. Make sure you have Python 3 installed on your system.
 2. Clone this GitHub repository or download the `byt_to_pixel.py` file to your machine.
 
-## Modification
+## Update
 1. Open the `byt_to_pixel.py` file in a text editor.
 2. You can adjust the following parameters according to your needs:
    - `file_path`: Path to the binary file you want to convert.
