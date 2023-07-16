@@ -1,6 +1,8 @@
 # Converter Octet to Pixel color
 
-This project is a Python script that allows you to convert binary files into pixelated images and create a video from these images.
+This project is a Python script that allows you to convert binary files into pixelated images and create a video from these images. There are 16,777,216 color combinations available with 256 bit differing, making billions of possible combinations. A text or encrypting program before being passed the converter bit will become almost impossible to decode if you don't have the basic colors. It is possible to create a decoder that looks at pixels one by one. I may come back later on this project to make the necessary modifications.
+
+
 
 ## Installation
 1. Make sure you have Python 3 installed on your system.
