@@ -9,7 +9,7 @@ Il y a aussi un script permettant de générée les couleurs a partir d'une seed
 
 ## Install
 1. Assurez-vous que Python 3 est installé sur votre système.
-2. Clonez ce référentiel GitHub ou téléchargez le fichier `byt_to_pixel.py` sur votre machine.
+2. Clonez ce GitHub ou téléchargez le fichier `byt_to_pixel.py` sur votre machine.
 
 ## Update
 1. Ouvrez le fichier `byt_to_pixel.py` dans un éditeur de texte.
