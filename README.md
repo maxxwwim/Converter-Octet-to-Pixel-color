@@ -24,7 +24,7 @@ Il y a aussi un script permettant de générée les couleurs a partir d'une seed
 1. Placez le fichier binaire que vous souhaitez convertir dans le même répertoire que `byt_to_pixel.py`.
 2. Ouvrez une invite de commande ou un terminal et accédez au répertoire contenant "byt_to_pixel.py".
 3. Exécutez la commande suivante pour créer des images pixélisées, modifier ces ligne a la fin du programme ou appelé le depuis un autre script :
-```
+```py
    file_path = "C:\\Users\\thgl\\Documents\\iso\\backbox-8-desktop-amd64.iso"
    width = 1280
    height = 720
