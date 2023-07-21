@@ -1,5 +1,6 @@
 # Converter Octet to Pixel color
 
+
 Ce projet est un script Python qui permet de convertir des fichiers binaires en images pixélisées et de créer une vidéo à partir de ces images. Il existe 16 777 216 combinaisons de couleurs disponibles avec 256 bits différents, ce qui fait des milliards de combinaisons possibles. Un texte ou un programme de crypté avant d'être passé dans le bit converter deviendra presque impossible à décoder si vous n'avez pas la seed des couleurs. Il est possible de créer un décodeur qui regarde les pixels un par un. Je reviendrai peut-être plus tard sur ce projet pour apporter les modifications nécessaires.
 
 Il y a aussi un script permettant de générée les couleurs a partir d'une seed.
